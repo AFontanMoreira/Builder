@@ -11,7 +11,6 @@ public class Main {
                 .setRelleno(true)
                 .setRecogida(Pizzas.TIENDA)
                 .build();
-
-        System.out.println("Las pizzas");
+        System.out.println(base);
     }
 }

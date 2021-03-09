@@ -35,6 +35,4 @@ public class BuilderPizzas {
         _pizza.setRecojida(recogida);
         return this;
     }
-
-
 }
